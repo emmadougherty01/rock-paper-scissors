@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["cfg_if","dirs_next","dirs_sys_next","getrandom","platform_dirs","ppv_lite86","rand","rand_chacha","rand_core","rock_paper_scissors","winapi"];
